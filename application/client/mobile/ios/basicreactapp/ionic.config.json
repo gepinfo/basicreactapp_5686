@@ -1,0 +1,7 @@
+{
+  "name": "basicreactapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
